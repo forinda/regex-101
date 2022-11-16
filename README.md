@@ -1,5 +1,7 @@
 # regex-101
 A tech talk intro to Regex
+Useful links
+- [Regex buddy](https://www.regular-expressions.info/quickstart.html)
 ```sh
 Regular Expression FUll Cheatsheet (For quick look) :)
 note: for downloading visit https://buggyprogrammer.com/regular-expression-cheatsheet/
